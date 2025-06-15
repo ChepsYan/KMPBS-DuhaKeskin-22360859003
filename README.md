@@ -5,7 +5,7 @@
   <h4>Web Tabanlı Programlama Dersi Projesi</h4>
   <p><strong>Duha KESKİN</strong</p>
   <p><strong>Öğrenci No:</strong> 22360859003</p>
-  <p><strong>Youtube Linki:</strong> [https://youtu.be/hclBBCv6TcQ](https://youtu.be/hclBBCv6TcQ)</p>
+  <p><strong>Youtube Linki:</strong> https://youtu.be/hclBBCv6TcQ</p>
   <p>Modern ve kullanıcı dostu bir web tabanlı parsel yönetim sistemi</p>
   
   <img src="https://img.shields.io/badge/PHP-7.4+-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
